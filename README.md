@@ -6,3 +6,9 @@ Lớp: K58KTP
 MSSV: K225480106019
 
 Bài tiểu luận môn Công nghệ phần mềm
+
+#### Link video thuyết trình:
+https://youtu.be/59iE3qETi5Q
+
+#### Link video demo:
+https://youtu.be/WHVxbrpDJFw
