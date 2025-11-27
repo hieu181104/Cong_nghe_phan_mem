@@ -7,6 +7,7 @@ MSSV: K225480106019
 
 Bài tiểu luận môn Công nghệ phần mềm
 
+Do dung lượng video lớn và trục trặc phần ghi hình nên em xin phép tách video thành hai phần:
 #### Link video thuyết trình:
 https://youtu.be/59iE3qETi5Q
 
